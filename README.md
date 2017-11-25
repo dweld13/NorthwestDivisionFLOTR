@@ -8,7 +8,7 @@ Open html file in your web browser.
 
 OR
 
-Follow this link: https://dweld13.github.io/NBA-NW-Division-graph/
+Follow this link: https://dweld13.github.io/NorthwestDivisionFLOTR/
 
 
 This is an ongoing project...
